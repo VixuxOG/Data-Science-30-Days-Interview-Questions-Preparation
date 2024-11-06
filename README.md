@@ -112,3 +112,6 @@ This project is licensed under the MIT License.
 ---
 
 **Happy Learning and Good Luck with Your Data Science Interview Preparation!**
+
+---
+If you found these resources helpful, please give them a star! ⭐
